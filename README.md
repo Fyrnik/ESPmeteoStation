@@ -37,11 +37,11 @@ To upload the firmware:
 RU:
 Для загрузки прошивки понадобится компьютер, программа Arduino IDE, программатор для ESP-01, подключение к WiFi сети
 
-Перед загрузкой в файле прошивки "meteo.ino" замените параметры:
-"WIFI_SSID" на имя Вашей WiFi сети
-"WIFI_PASSWORD" на пароль Вашей WiFi сети
-"CITY" на Ваш город
-"API_KEY" на Ваш API ключ с сайта https://openweathermap.org
+Перед загрузкой в файле прошивки "meteo.ino" замените параметры: \n
+"WIFI_SSID" на имя Вашей WiFi сети\n
+"WIFI_PASSWORD" на пароль Вашей WiFi сети\n
+"CITY" на Ваш город\n
+"API_KEY" на Ваш API ключ с сайта https://openweathermap.org\n
 
 Если экран не работает, поменяйте параметр SCREEN_ADDRESS с 0x3C на 0x3D
 
