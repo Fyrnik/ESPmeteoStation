@@ -6,10 +6,10 @@ ENG:
 To download the firmware you will need a computer, Arduino IDE program, programmer for ESP-01, connection to WiFi network
 
 Before uploading the firmware replace the parameters:
-"WIFI_SSID" for the name of your WiFi network
-"WIFI_PASSWORD" for the password of your WiFi network
-"CITY" for your city
-"API_KEY" for your API key from the website https://openweathermap.org
+1. "WIFI_SSID" for the name of your WiFi network
+2. "WIFI_PASSWORD" for the password of your WiFi network
+3. "CITY" for your city
+4. "API_KEY" for your API key from the website https://openweathermap.org
 
 If the display doesn't work, change the SCREEN_ADDRESS parameter from 0x3C to 0x3D
 
