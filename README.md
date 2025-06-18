@@ -2,7 +2,6 @@ Small weather station on ESP-01 and SSD1306
 
 ![scheme](https://github.com/user-attachments/assets/1112834c-2890-4bea-8467-d9f5f66d23fd)
 
-ENG:
 To download the firmware you will need a computer, Arduino IDE program, programmer for ESP-01, connection to WiFi network
 
 Before uploading the firmware replace the parameters:
