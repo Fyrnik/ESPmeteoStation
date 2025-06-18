@@ -31,6 +31,9 @@ To upload the firmware:
 7. Click Tools > Port and select a port on your board other than COM1 and COM3
 8. On the top left of the screen, click the blue arrow button and upload the firmware! You can also do this by pressing Ctrl + U
 
+
+
+
 RU:
 Для загрузки прошивки понадобится компьютер, программа Arduino IDE, программатор для ESP-01, подключение к WiFi сети
 
